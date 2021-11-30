@@ -2,14 +2,14 @@
 
 ## SCHEDULE
 
-| Hora           | Bloque                     |
-| -------------- | -------------------------- |
-| 15.00 - 15.45  | Fractales 3                |
-| 15.00 - 16.15  | Tiempo Creativo            |
-| 16.20 -15.50   | Intro a sistemas dinámicos |
-| 16.50 - 17.00  | PAUSA                      |
-| 17.00 - 17.20  | Intro a péndulos           |
-| 17.20 - 17.45  | Tiempo creativo            |
+| Hora           | Bloque                               |
+| -------------- | ------------------------------------ |
+| 15.00 - 15.45  | Fractales 3                          |
+| 15.45 - 16.15  | Tiempo Creativo                      |
+| 16.15 -15.50   | Intro a sistemas dinámicos           |
+| 16.50 - 17.00  | PAUSA                                |
+| 17.00 - 17.20  | Intro a sistemas dinámicos: péndulos |
+| 17.20 - 18.00  | Tiempo creativo                      |
 
 **CONTENIDO TEÓRICO**
 
