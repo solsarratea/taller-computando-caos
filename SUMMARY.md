@@ -6,6 +6,7 @@
   * [Clases](computando-visiones-del-caos-en-glsl/clases/README.md)
     * [Clase 0](computando-visiones-del-caos-en-glsl/clases/clase-0.md)
     * [Clase 1](computando-visiones-del-caos-en-glsl/clases/clase-1.md)
+    * [Clase 2](computando-visiones-del-caos-en-glsl/clases/clase-2.md)
   * [Notas sobre referencias bibliográficas](computando-visiones-del-caos-en-glsl/notas-sobre-referencias-bibliograficas/README.md)
     * [The Fractal Geometry of Nature by Benoit Mandelbrot](computando-visiones-del-caos-en-glsl/notas-sobre-referencias-bibliograficas/the-fractal-geometry-of-nature-by-benoit-mandelbrot.md)
     * [Metamagical Themas: Questing for the Essence of Mind and Pattern by Douglas R. Hofstadter](computando-visiones-del-caos-en-glsl/notas-sobre-referencias-bibliograficas/metamagical-themas-questing-for-the-essence-of-mind-and-pattern-by-douglas-r.-hofstadter.md)

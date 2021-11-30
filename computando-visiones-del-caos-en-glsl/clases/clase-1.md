@@ -12,7 +12,7 @@
 | 16.50 - 17.30  | Fractales en dominio Complejo: Conjuntos de Julia, Mandelbrot y Fractal de Newton |
 | 17.30 - 18.00  | Tiempo Creativo                                                                   |
 
-**CONTENIDO TEOÓRICO**
+**CONTENIDO TEÓRICO**
 
 {% embed url="https://docs.google.com/presentation/d/e/2PACX-1vQeCvKpLRhm9RJo_J_z_IJsMtItXH46O5j6HZAwJikWr8vi4htPP72hiGUpMQdt4uRVk-hXNoiYM4kk/pub?delayms=3000&loop=false&start=false" %}
 

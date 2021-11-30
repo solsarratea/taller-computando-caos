@@ -50,6 +50,10 @@ Agradecimiento a todas las personas que aportaron a la creacioón de este conten
 
 {% embed url="https://www.karlsims.com/julia.html" %}
 
+#### Caos
+
+{% embed url="https://hypertextbook.com/chaos/logistic" %}
+
 ### Artículos sobre naturaleza y  experimentos en el mundo físico
 
 {% embed url="http://ullagami.com/how-to.php" %}
@@ -71,4 +75,16 @@ Agradecimiento a todas las personas que aportaron a la creacioón de este conten
 {% embed url="https://botanicamathematica.wordpress.com/2013/03/18/chaotic-knitting" %}
 tejer 💜&#x20;
 {% endembed %}
+
+{% embed url="https://www.karlsims.com/harmonograph" %}
+harmonograph  ❤️
+{% endembed %}
+
+{% embed url="https://www.instructables.com/Visualizing-Chaos-With-the-Double-Pendulum" %}
+Doble Péndulo
+{% endembed %}
+
+### Hyperlinks: link con links
+
+{% embed url="https://web.archive.org/web/20000829113446/http://thasos.cc.duth.gr/~mboudour/nonlin.html" %}
 
